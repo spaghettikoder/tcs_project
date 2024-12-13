@@ -1,34 +1,33 @@
+# Survey
 
-## Survey
-
-### Background
+## Background
 
 This survey aims to gather quantitative data on student experiences and preferences regarding educational support apps, complementing the qualitative insights from interviews.
 
-### Research Goal
+## Research Goal
 
 The goal is to validate insights from interviews and identify additional issues related to usage patterns and satisfaction on a larger scale.
 
-### Research Questions
+## Research Questions
 
 1. What are the usage patterns and most used features of students' current educational support apps?
 2. What are the areas of improvement for these apps?
 3. How can we measure student satisfaction with these apps?
 
-### Method
+## Method
 
 1. **Pilot Survey:** Test survey questions with a small group of students.
 2. **Online Survey:** Distribute the survey to a larger group of students within the university.
 
-### Recruiting Criteria
+## Recruiting Criteria
 
 - Current university students.
 - Used any educational support app within the last 6 months.
 - Willing to spend 10-15 minutes filling out the survey.
 
-### Survey Questions
+## Survey Questions
 
-#### Primary Questions
+### Primary Questions
 
 1. **How many times have you used an educational support app or platform in the past 6 months?** [Frequency]
    - 1-3 times
@@ -101,7 +100,7 @@ The goal is to validate insights from interviews and identify additional issues 
     - 4
     - Very Likely
 
-#### Demographic Questions
+### Demographic Questions
 
 1. **What is your age?** [Demographic]
    - Under 18
