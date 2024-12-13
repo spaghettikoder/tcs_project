@@ -27,7 +27,7 @@
   - A list of topics, a profile button, in the topics you can leave a request for help or help others
   - **Design Preferences:** Green (Inno style)
   - **Notification Preferences:** Will be faster to use the same app
-- **Telegram Handle:** [@Nurullin_Said](https://t.me/Nurullin_Said)
+- **Telegram Handle:** [@N0urullinn_Said](https://t.me/N0ureullinn_Said)
 
 ---
 
