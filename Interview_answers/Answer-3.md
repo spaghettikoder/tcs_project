@@ -26,6 +26,6 @@
   - **Design Preferences:** Orange
   - **Notification Preferences:** Immediately
   - **Communication Preferences:** Telegram 100%
-- **Telegram Handle:** [@Ezzy_a](https://t.me/Ezzy_a)
+- **Telegram Handle:** [@Eezzay_a](https://t.me/Eezzay_a)
 
 ---
