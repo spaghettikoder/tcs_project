@@ -1,4 +1,4 @@
-# BuddyForStudy Project Documentation
+# BuddyForStudy Research Plan
 
 ## Background of the Project
 
