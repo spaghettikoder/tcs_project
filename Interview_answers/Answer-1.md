@@ -1,0 +1,32 @@
+## Dima (Not from IU)
+
+- **Age:** 20
+- **Hobbies:** Play video games, go for a walk, do sports
+- **Year of Study:** 2
+- **Field of Study:** Applied Mathematics
+- **Experience in Helping:** Helped his classmates
+- **Comfort with Offering Help:** Neutral
+- **Experience Seeking Help:** No
+- **Preferred Expression for Rating Skills:** More convenient to use expressions (option A)
+- **Preferences in Help-Seeking:**
+  - No
+  - Yes
+  - Yes
+  - Would try
+  - Use a spoken language and the same gender
+  - Communicate the material clearly and effectively
+- **Preferences for Offering Help:**
+  - Depending on the workload
+  - Yes (Provide additional tasks to self-solve)
+  - Also use a spoken language and the same gender
+  - Attentiveness and interest
+- **Preferred Application Features:**
+  - Fill out an application about yourself and wait for requests for help
+  - Using various filters, find a student among the applications who can help you
+  - A window for filling out an application about yourself and a window for finding help (filters)
+  - **Design Preferences:** Blue
+  - **Notification Preferences:** Immediately
+  - **Communication Preferences:** In the same app
+- **Telegram Handle:** [@Dmi3ks](https://t.me/Dmi3ks)
+
+---
