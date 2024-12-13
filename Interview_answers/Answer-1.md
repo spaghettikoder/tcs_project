@@ -27,6 +27,6 @@
   - **Design Preferences:** Blue
   - **Notification Preferences:** Immediately
   - **Communication Preferences:** In the same app
-- **Telegram Handle:** [@Dmi3ks](https://t.me/Dmi3ks)
+- **Telegram Handle:** [@Diimi3ks](https://t.me/Diimi3ks)
 
 ---
