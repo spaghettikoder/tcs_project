@@ -1,4 +1,3 @@
-```markdown
 # BuddyForStudy Project Documentation
 
 ## Background of the Project
@@ -327,4 +326,3 @@ The goal is to validate insights from interviews and identify additional issues 
 ### Conclusion
 
 By utilizing competitive analysis, semi-structured interviews, and surveys, BuddyForStudy can gather comprehensive data on user preferences and experiences. This research will inform the development of features and improve the overall user experience of the app, ensuring it effectively meets the needs of its target audience.
-```
