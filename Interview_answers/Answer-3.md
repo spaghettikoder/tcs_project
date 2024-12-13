@@ -1,0 +1,31 @@
+## Danil
+
+- **Age:** 20
+- **Hobbies:** Play video games and badminton
+- **Year of Study:** 2
+- **Field of Study:** Software Development
+- **Experience in Helping:** Yes (explained how to work with Docker a lot)
+- **Comfort with Offering Help:** Likes it
+- **Experience Seeking Help:** No
+- **Preferred Expression for Rating Skills:** More convenient to use percentage scaling (option C)
+- **Preferences in Help-Seeking:**
+  - No
+  - Yes (visual)
+  - Yes
+  - Yes
+  - Spoken language (60% importance) and average score (40% importance)
+  - Competence, teaching skills
+- **Preferences for Offering Help:**
+  - 70% of the time
+  - Yes (Asked the student if he has mastered the topic, gave him additional tasks to solve)
+  - More comfortable to explain in your native language
+  - Interest in the topic
+- **Preferred Application Features:**
+  - Filters by courses, weeks are possible
+  - A list of topics, class schedule, clubs, possibly upcoming classes
+  - **Design Preferences:** Orange
+  - **Notification Preferences:** Immediately
+  - **Communication Preferences:** Telegram 100%
+- **Telegram Handle:** [@Ezzy_a](https://t.me/Ezzy_a)
+
+---
